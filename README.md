@@ -1,5 +1,5 @@
 ### Foodie
-- **A Recipe App** in which you can find _all kinds of recipe books, videos, saves your to-do list or memo and also you can play Quiz_. 
+- **A Recipe App** in which you can find _different kinds of recipe books, videos, saves your to-do list or memo and also you can play Quiz_. 
 - In this app you don't need to login again and again, once you are logged in you are directly welcomed into the app. 
 - Its a great app with great GUI, splash screen and a lot of animations. Hope you enjoyed this app.
 
