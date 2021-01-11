@@ -16,6 +16,3 @@ From there you can install this app into your android phones.
 
 Or **_Directly download the APK File_** from the following link :- 
 https://drive.google.com/file/d/1wC-KXSWKyGv4fmtojofJgy_HqOWAXPa-/view?usp=sharing
-
-**_Demo of the Project:_**
-https://user-images.githubusercontent.com/64833214/104086038-3eeae000-527a-11eb-914a-382187f6757e.mp4
