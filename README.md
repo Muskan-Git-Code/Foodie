@@ -1,9 +1,17 @@
-### Foodie
-- **A Recipe App** in which you can find _different kinds of recipe books, videos, saves your to-do list or memo and also you can play Quiz_. 
+### Foodie (An Android Recipe App)
+- Recipe application is a very useful app for people who love to cook and try out new recipes.
+- _Foodie_ is an Android Application which provides user flexibility to search different kind of recipes.
+- Includes a list of _books_ which provides the user a list of dishes which can be cooked, provided with the information like ingredients, steps to cook and the duration to cook desired food.
+- Provides _video tutorials_ for cooking which helps user for the better understanding.
+- _Memo_ for saving important points to remember while cooking.
+- Play _Quiz_ on cooking which tests your cooking knowledge in an entertaining way.
+- _Role Played:_ Designer, Developer and Tester
+- _Languages used:_ JAVA and XML
+- _IDE:_ Android Studio
+
+**An Android Recipe App** in which you can find _different kinds of recipe books, videos, saves your to-do list or memo and also you can play Quiz_. 
 - In this app you don't need to login again and again, once you are logged in you are directly welcomed into the app. 
-- Its a great app with great GUI, splash screen and a lot of animations. Hope you enjoyed this app.
-
-
+- It is an app with great GUI, splash screen and a lot of animations. 
 
 
 
